@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RelativeLayoutExercicio</string>
+    <string name="cortar_a_grama">Cortar a Grama</string>
+    <string name="fazer_compras">Fazer Compras</string>
+</resources>
